@@ -30,8 +30,8 @@ Connect database, create a .env file in the project root directory.
 
 Add the line
 
-- DATABASE_URL=postgresql://<Username>:<your_password>@<hostname>:<port_number>/<database_name>
+- DATABASE_URL=postgresql://<user_name>:<your_password>@<hostname>:<port_number>/<database_name>
 
 If no password is required
 
-- DATABASE_URL=postgresql://<Username>@<host_name>:<port_number>/<database_name>
+- DATABASE_URL=postgresql://<user_name>@<host_name>:<port_number>/<database_name>
