@@ -3,7 +3,7 @@ To install FastAPI, you need Python version 3.7 or higher
 
 Create a virtual env
 ```bash
-python3 -m venv <venv_name> // Replace <venv_name> with any name you want
+$python3 -m venv <venv_name> // Replace <venv_name> with any name you want
 
 Activate virtual env
 - Linux/Mac
